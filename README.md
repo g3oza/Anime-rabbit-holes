@@ -23,13 +23,10 @@ I simulated 50,000 games of Double Memory between two players with PERFECT memor
 
 **2. Yumeko was actually the favourite!** With 18 cards left, she needed to clear the whole board in one turn. Perfect-memory players do that about **76%** of the time, so Sumeragi's "if you miss, I win" was more bluff than threat.
 
-This chart is a bit cooked, but the labels show where both girls landed:
-
+This chart below is a bit cooked, but the labels tell you where both girls' odds landed in the actual anime. *NB this is my first project whoopeeeeee*
 ![Charts](charts.png)
 
 ## Limits
 
 - Cheaters are usually caught from patterns after a few games, not one in isolation!
 
-This chart below is a bit cooked, but the labels tell you where both girls' odds landed in the actual anime. *NB this is my first project whoopeeeeee*
-![Charts](charts.png)
